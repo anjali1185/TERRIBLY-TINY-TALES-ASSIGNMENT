@@ -16,6 +16,16 @@ The following libraries and plugins are used in this project:
 - **axios**: A promise-based HTTP client for making API requests.
 - **recharts**: A composable charting library for React that leverages the power of D3.js.
 
+##Explaination
+
+`import React, { useState } from 'react';
+import axios from 'axios';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ReferenceLine, ResponsiveContainer } from 'recharts';`
+
+The above lines import the necessary modules and components from React, axios, and recharts libraries.
+
+
+
 ## Usage
 
 To run the application locally, follow these steps:
