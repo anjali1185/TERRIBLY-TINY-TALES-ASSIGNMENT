@@ -18,9 +18,9 @@ The following libraries and plugins are used in this project:
 
 ##Explaination
 
-`import React, { useState } from 'react';
+```import React, { useState } from 'react';
 import axios from 'axios';
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ReferenceLine, ResponsiveContainer } from 'recharts';`
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ReferenceLine, ResponsiveContainer } from 'recharts';```
 
 The above lines import the necessary modules and components from React, axios, and recharts libraries.
 
