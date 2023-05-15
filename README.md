@@ -2,6 +2,9 @@
 
 This project is a React.js application that fetches the contents of a text file from a URL, parses the content to find the frequency of occurrence of each word, and displays a histogram chart of the 20 most occurring words.
 
+## Live Link
+- https://wordfrequencyhistogram.netlify.app/
+
 ## Components
 
 The project consists of the following components:
